@@ -177,7 +177,7 @@
 
 - [ ] [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners with Latest APIs | 
 - [ ] [practicalAI](https://github.com/GokuMohandas/practicalAI): A practical approach to learning and using machine learning. | 
-- [ ] [Articles]https://github.com/TannerGilbert/Articles(): Code for my articles | [website](https://medium.com/@gilberttanner)
+- [ ] [Articles](https://github.com/TannerGilbert/Articles): Code for my articles | [website](https://medium.com/@gilberttanner)
 - [ ] [tensorflow-internals](https://github.com/horance-liu/tensorflow-internals): It is open source ebook about TensorFlow kernel and implementation mechanism. | 
 - [ ] [pytorch-book](https://github.com/chenyuntc/pytorch-book): PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation | 
 - [ ] [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorial for Deep Learning Researchers | 
