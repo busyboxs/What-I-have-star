@@ -4,9 +4,6 @@
 
 - [ ] [programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics): Code for A Programmer's Introduction to Mathematics | [website](https://pimbook.org/)
 - [ ] [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra): 线性代数笔记 | [website](http://nbviewer.jupyter.org/github/zlotus/notes-linear-algebra/blob/master/ReadMe.ipynb?flush_cache=true)
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
 
 ## Kaggle and other race
 
@@ -15,14 +12,10 @@
 - [ ] [ijcai-2018](https://github.com/plantsgo/ijcai-2018): ijcai-2018 top1 solution | 
 - [ ] [ijcai-18-top2-single-mole-solution](https://github.com/YouChouNoBB/ijcai-18-top2-single-mole-solution): 复赛第二名单模型方案，没有特征选择没有调参LGB单模型857个特征 |
 - [ ] [kaggle](https://github.com/apachecn/kaggle): Kaggle 项目实战（教程） = 文档 + 代码 + 视频（欢迎参与） | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  |  
+- [ ] [ALI-IJCAI-AD](https://github.com/AlexanLee/ALI-IJCAI-AD): ALI-IJCAI-AD | 
+- [ ] [IJCAI_18](https://github.com/wzp123456/IJCAI_18): IJCAI-18 阿里妈妈搜索广告转化预测 | 
+- [ ] [tecent_ads](https://github.com/houhaichao830/tecent_ads): code_script | 
+- [ ] [AICity_Team24](https://github.com/NVIDIAAICITYCHALLENGE/AICity_Team24): Effective Object Detection From Traffic Camera Videos | 
 
 ## OpenCV
 
@@ -45,8 +38,13 @@
 - [ ] [tensorflow-DeepFM](https://github.com/ChenglongChen/tensorflow-DeepFM): Tensorflow implementation of DeepFM for CTR prediction. | 
 - [ ] [Python-Machine-Learning-Blueprints](https://github.com/PacktPublishing/Python-Machine-Learning-Blueprints): Code repository for Python Machine Learning Blueprints, published by Packt | 
 - [ ] [BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython): Source Code for the book Building Machine Learning Systems with Python | [website](http://www.packtpub.com/building-machine-learning-systems-with-python/book)
-- [ ] []():  | 
-- [ ] []():  | 
+- [ ] [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks): Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines. | 
+- [ ] [Data-Science-Lab-Final-Project](https://github.com/jsigee87/Data-Science-Lab-Final-Project): ... | 
+- [ ] [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book): The "Python Machine Learning (1st edition)" book code repository and info resource | 
+- [ ] [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning): Dive into Machine Learning with Python Jupyter notebook and scikit-learn!  | [website](http://hangtwenty.github.io/dive-into-machine-learning/)
+- [ ] [machine-learning](https://github.com/udacity/machine-learning): Content for Udacity's Machine Learning curriculum | 
+- [ ] [AiLearning](https://github.com/apachecn/AiLearning): AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP | [website](http://ailearning.apachecn.org/)
+- [ ] [machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap): A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning. | 
 
 ## Deep Learning
 
@@ -66,11 +64,9 @@
 - [ ] [2017-persontyle](https://github.com/telecombcn-dl/2017-persontyle): Applied Deep Learning Workshop London 2017 | 
 - [ ] [deeplearning-mindmap](https://github.com/dformoso/deeplearning-mindmap): A mindmap summarising Deep Learning concepts. |
 - [ ] [Fall2018-tutorials](https://github.com/cmudeeplearning11785/Fall2018-tutorials): Tutorials for Fall 2018 http://deeplearning.cs.cmu.edu/ | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
+- [ ] [transferlearning-tutorial](https://github.com/jindongwang/transferlearning-tutorial): 《迁移学习简明手册》LaTex源码 | [website](http://tutorial.transferlearning.xyz/) 
+- [ ] [deep_study](https://github.com/voice32/deep_study): ... | 
+- [ ] [deepLearningBook-Notes](https://github.com/hadrienj/deepLearningBook-Notes): Notes on the Deep Learning book from Ian Goodfellow, Yoshua Bengio and Aaron Courville (2016) | [website](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
 
 ### CV
 
@@ -130,13 +126,82 @@
 - [ ] [rrc_detection](https://github.com/xiaohaoChen/rrc_detection): Accurate Single Stage Detector Using Recurrent Rolling Convolution | 
 - [ ] [Card-Ocr](https://github.com/isee15/Card-Ocr): 身份证识别OCR | 
 - [ ] [semantic-search](https://github.com/hundredblocks/semantic-search): Semantic search for images and words using neural networks. | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
+- [ ] [ml4a-guides](https://github.com/ml4a/ml4a-guides): practical guides, tutorials, and code samples for ml4a | [website](http://ml4a.github.io/guides)
+- [ ] [image-similarity-deep-ranking](https://github.com/akarshzingade/image-similarity-deep-ranking): ... | 
+- [ ] [ImageForensics](https://github.com/HMS-IDAC/ImageForensics): Learning Manipulation-Invariant Image Similarity for Detecting Re-Use of Images in Scientific Publications  | [website](https://hms-idac.github.io/ImageForensics/)
+- [ ] [Reading-Paper](https://github.com/chullhwan-song/Reading-Paper): ... | 
+- [ ] [fashion_mnist](https://github.com/MinxZ/fashion_mnist): Image similarity on Fashion MNIST | 
+- [ ] [MLKP](https://github.com/Hwang64/MLKP): CVPR18 Paper: Multi-scale Location-aware Kernel Representation for Object Detection | 
+- [ ] [LSTM-Human-Activity-Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition): Human Activity Recognition example using TensorFlow on smartphone sensors dataset and an LSTM RNN (Deep Learning algo). Classifying the type of movement amongst six activity categories - Guillaume Chevalier | [website](http://www.neuraxio.com/en/)
+- [ ] [realtime_object_detection](https://github.com/GustavZ/realtime_object_detection): Plug and Play Real-Time Object Detection App with Tensorflow and OpenCV. No Bugs No Worries. Enjoy! | 
+- [ ] [SNIPER](https://github.com/mahyarnajibi/SNIPER): SNIPER is an efficient multi-scale object detection algorithm | 
+- [ ] [faceai](https://github.com/vipstone/faceai): 一款入门级的人脸、视频、文字检测以及识别的项目. | 
+- [ ] [Mask_RCNN](https://github.com/matterport/Mask_RCNN): Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow | 
+- [ ] [RRPN](https://github.com/mjq11302010044/RRPN): Source code of RRPN ---- Arbitrary-Oriented Scene Text Detection via Rotation Proposals | 
+- [ ] [Facial-Recognition-Tensorflow](https://github.com/GudarJs/Facial-Recognition-Tensorflow): Tensorflow pipeline to recognize faces - Pycon Colombia 2018 | 
+- [ ] [RFBNet](https://github.com/ruinmessi/RFBNet): Receptive Field Block Net for Accurate and Fast Object Detection, ECCV 2018 | 
+- [ ] [light_head_rcnn](https://github.com/zengarden/light_head_rcnn): Light-Head R-CNN |
+- [ ] [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition): A general list of resources to image text localization and recognition | 
+- [ ] [real_time_face_recognition](https://github.com/shanren7/real_time_face_recognition): Real time face detection and recognition base on opencv/tensorflow/mtcnn/facenet | 
+- [ ] [face_recognition](https://github.com/hqli/face_recognition): 使用webface人脸数据集以及DeepID网络，通过Caffe训练出模型参数，得到LFW二分类的人脸识别准确率。 | 
+- [ ] [RefineDet](https://github.com/sfzhang15/RefineDet): Single-Shot Refinement Neural Network for Object Detection, CVPR, 2018 | 
+- [ ] [Faster_RCNN_for_DOTA](https://github.com/jessemelpolio/Faster_RCNN_for_DOTA): Code used for training Faster R-CNN on DOTA | 
+- [ ] [SINet](https://github.com/xw-hu/SINet): SINet: A Scale-insensitive Convolutional Neural Network for Fast Vehicle Detection | 
+- [ ] [Pytorch_C3D_Feature_Extractor](https://github.com/yyuanad/Pytorch_C3D_Feature_Extractor): Pytorch C3D feature extractor | 
+- [ ] [R-MTCNN](https://github.com/AresGao/R-MTCNN): R-MTCNN：Joint Face detection and Alignment using Region-based Multi-task Convolution Networks |
+- [ ] [pytorch_classification](https://github.com/OdingdongO/pytorch_classification): 基于pytorch框架的classification万用模板 |
+- [ ] [Logo-Classifier](https://github.com/Anubhav-Bhargava/Logo-Classifier): Code for Logo Detection and Classification | 
+- [ ] [dog-classification](https://github.com/zhangxu0307/dog-classification): Dog classification in Baidu contest, fine-grained classification, get 0.89 score as baseline. | 
+- [ ] [Saliency-guided-Faster-R-CNN_ACMMM2017](https://github.com/PKU-ICST-MIPL/Saliency-guided-Faster-R-CNN_ACMMM2017): Source code of our ACM MM 2017 paper "Fine-grained Discriminative Localization via Saliency-guided Faster R-CNN" | 
+- [ ] [bird_classification](https://github.com/halwai/bird_classification): Fine-grained classification of bird images from Caltech-UCSD Birds-200-2011 dataset |
+- [ ] [OPAM_TIP2018](https://github.com/PKU-ICST-MIPL/OPAM_TIP2018): Source code of our TIP 2018 paper "Object-Part Attention Model for Fine-grained Image Classification" | 
+- [ ] [Fine_Grained_Classification](https://github.com/ouceduxzk/Fine_Grained_Classification): Fined grained classification On Car dataset | 
+- [ ] [Augmentor](https://github.com/mdbloice/Augmentor): Image augmentation library in Python for machine learning. | [website](http://augmentor.readthedocs.io/)
+- [ ] [Low-Rank-Bilinear-Pooling](https://github.com/aimerykong/Low-Rank-Bilinear-Pooling): Fine-grained classification via second order statistics in a compact end-to-end trainable model | 
+- [ ] [py-mask-rcnn](https://github.com/sameole/py-mask-rcnn): Mask RCNN in Caffe | 
+- [ ] [realtime-detectron](https://github.com/cedrickchee/realtime-detectron): Real-time Detectron using webcam. | 
+- [ ] [FlowersOrButterflyers](https://github.com/kirillsonk/FlowersOrButterflyers): Neural Network for recognizing butterflies and flowers | 
+- [ ] [face-magnet](https://github.com/po0ya/face-magnet): Code of Face-MagNet that was published in WACV18 | 
+- [ ] [traffic-signs-recognition](https://github.com/wazeerzulfikar/traffic-signs-recognition): Traffic Signs Detection and Recognition using Multi-Scale CNN | 
+- [ ] [Perception-for-Self-driving](https://github.com/hayoung-kim/Perception-for-Self-driving): Perception algorithms for Self-driving car; Lane Line Finding, Vehicle Detection, Traffic Sign Classification algorithm. | 
+- [ ] [tsr-py-faster-rcnn](https://github.com/sridhar912/tsr-py-faster-rcnn): This repo contains code related to german traffic sign detection and classification using Faster-RCNN | 
+- [ ] [Traffic-Sign-Detection](https://github.com/qijiezhao/Traffic-Sign-Detection): UISEE Traffic-Sign Detection Game: The 2nd team- PKU_MI team | 
+- [ ] [traffic-signs-tensorflow](https://github.com/waleedka/traffic-signs-tensorflow): Traffic Signs Detection and Recognition with Tensorflow | 
+- [ ] [ssd_tensorflow_traffic_sign_detection](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection): Implementation of Single Shot MultiBox Detector in TensorFlow, to detect and classify traffic signs | 
+- [ ] [DNN-Face-Recognition-Papers](https://github.com/L706077/DNN-Face-Recognition-Papers): awesome deep learning papers for face recognition
+ | 
+- [ ] [tf-face-recognizer](https://github.com/sugyan/tf-face-recognizer): ... | 
+- [ ] [caffe-face](https://github.com/ydwen/caffe-face): This branch is developed for deep face recognition | 
+- [ ] [FaceDetection](https://github.com/OAID/FaceDetection): C++ project to implement MTCNN, a perfect face detect algorithm, on different DL frameworks. The most popular frameworks: caffe/mxnet/tensorflow, are all suppported now | 
+- [ ] [facenet](https://github.com/davidsandberg/facenet): Face recognition using Tensorflow | 
+- [ ] [CNNFaceRecognition](https://github.com/Romathonat/CNNFaceRecognition): Using caffe framework (machine learning) to recognize faces in a picture | 
+- [ ] [RememberYou](https://github.com/berli/RememberYou): face recognize by convolution neural network(CNN), deep learning, which bases on Caffe | 
+- [ ] [AutonomousDrivingCookbook](https://github.com/Microsoft/AutonomousDrivingCookbook): Scenarios, tutorials and demos for Autonomous Driving | 
+- [ ] [awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles): Curated List of Self-Driving Cars and Autonomous Vehicles Resources | [website](https://takeitallsource.github.io/awesome-autonomous-vehicles/)
+- [ ] [Autoware](https://github.com/CPFL/Autoware): Open-Source To Self-Driving.  | [website](https://www.autoware.ai/)
+- [ ] [st-gcn](https://github.com/yysijie/st-gcn): Spatial Temporal Graph Convolutional Networks (ST-GCN) for Skeleton-Based Action Recognition in PyTorch | 
+- [ ] [Detectron](https://github.com/facebookresearch/Detectron): FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet. | 
+- [ ] [tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository) | 
+- [ ] [ssd.pytorch](https://github.com/amdegroot/ssd.pytorch): A PyTorch Implementation of Single Shot MultiBox Detector | 
+- [ ] [SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow): Single Shot MultiBox Detector in TensorFlow | 
+- [ ] [py-RFCN-priv](https://github.com/soeaver/py-RFCN-priv): code for py-R-FCN-multiGPU maintained by bupt-priv | 
+- [ ] [affordance-net](https://github.com/nqanh/affordance-net): AffordanceNet - Multiclass Instance Segmentation Framework - ICRA 2018 | 
+- [ ] [caffe SSD](https://github.com/weiliu89/caffe): Caffe SSD liuwei |
+- [ ] [SSH](https://github.com/mahyarnajibi/SSH): SSH: Single Stage Headless Face Detector | 
+- [ ] [Mask-RCNN](https://github.com/stillwalker1234/Mask-RCNN): Implementation of https://arxiv.org/abs/1703.06870
+ | 
+- [ ] [Net_caffe](https://github.com/ZJUZQ/Net_caffe): ... | 
+- [ ] [caffe-model](https://github.com/soeaver/caffe-model): Caffe models (including classification, detection and segmentation) and deploy files for famouse networks | 
+- [ ] [R-FCN-PSROIAlign](https://github.com/afantideng/R-FCN-PSROIAlign): A Caffe implementation of PSROI-Align | 
+- [ ] [soft-nms](https://github.com/bharatsingh430/soft-nms): Object Detection |
+- [ ] [ohem](https://github.com/abhi2610/ohem): OHEM support for Fast R-CNN | 
+- [ ] [ohem-end2end](https://github.com/unsky/ohem-end2end): online hard examples mining support for Faster R-CNN end to end. | 
+- [ ] [faster-rcnn-pedestrian-detection](https://github.com/ChaoPei/faster-rcnn-pedestrian-detection): My customized Faster R-CNN for pedestrian-detection | 
+- [ ] [face-recognition](https://github.com/ITE-5th/face-recognition): ... | 
+- [ ] [RON](https://github.com/taokong/RON): RON: Reverse Connection with Objectness Prior Networks for Object Detection, CVPR 2017 | 
+- [ ] [sst](https://github.com/shyamal-b/sst): SST: Single-Stream Temporal Action Proposals (Official Repo) |
+- [ ] [mscnn](https://github.com/zhaoweicai/mscnn): Caffe implementation of our multi-scale object detection framework | 
+- [ ] [Video-Highlight-Detection](https://github.com/qijiezhao/Video-Highlight-Detection): video highlight detection with deep networks | 
 
 ### NLP
 
@@ -144,19 +209,18 @@
 - [ ] [nlp_course](https://github.com/yandexdataschool/nlp_course): YSDA course in Natural Language Processing | 
 - [ ] [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures): Oxford Deep NLP 2017 course | 
 - [ ] [PGB_on_tensorlfow](https://github.com/George191/PGB_on_tensorlfow): 输入关键字，生成一首诗（包括藏头诗） | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
+- [ ] [tensorflow_poems](https://github.com/jinfagang/tensorflow_poems): 中文古诗自动作诗机器人，屌炸天，基于tensorflow1.10 api，正在积极维护升级中，快star，保持更新！ | 
+- [ ] [DeepSpeech](https://github.com/mozilla/DeepSpeech): A TensorFlow implementation of Baidu's DeepSpeech architecture |
+- [ ] [Use_Tensorflow_Write_Couplets](https://github.com/CoderSLZhang/Use_Tensorflow_Write_Couplets): 分别用keras和tensorflow实现语言模型，可以生成对联。 | 
+- [ ] [seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet): 
+Play couplet with seq2seq model. 用深度学习对对联。 | [website](https://ai.binwang.me/couplet)
+- [ ] [nltk](https://github.com/nltk/nltk): NLTK Source | 
 
 ## Recommendation
 
 - [ ] [Recommenders](https://github.com/Microsoft/Recommenders): Recommender Systems | 
 - [ ] [OpenLearning4DeepRecsys](https://github.com/Leavingseason/OpenLearning4DeepRecsys): Some deep learning based recsys for open learning. | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
+- [ ] [Deep-Learning-for-Recommendation-Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems): This repository contains Deep Learning based articles , paper and repositories for Recommender Systems | 
 
 ## AI framework
 
@@ -164,14 +228,11 @@
 - [ ] [pytorchviz](https://github.com/szagoruyko/pytorchviz): A small package to create visualizations of PyTorch execution graphs | 
 - [ ] [ranking](https://github.com/tensorflow/ranking): Learning to Rank in TensorFlow | 
 - [ ] [fastai](https://github.com/fastai/fastai): The fastai deep learning library, plus lessons and and tutorials | [website](http://docs.fast.ai/)
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
+- [ ] [VisualDL](https://github.com/PaddlePaddle/VisualDL): A platform to visualize the deep learning process and result. | [website](http://visualdl.paddlepaddle.org/)
+- [ ] [tensorflow-build](https://github.com/lakshayg/tensorflow-build): TensorFlow binaries supporting AVX, FMA, SSE | 
+- [ ] [Feature-Selection](https://github.com/duxuhao/Feature-Selection): Features selection algorithm based on the self selected-algorithm, loss function and validation method | 
+- [ ] [models](https://github.com/PaddlePaddle/models): PaddlePaddle: Pre-trained and Reproduced Deep Learning Models （经典复现模型） | 
+- [ ] [caffe64](https://github.com/dfouhey/caffe64): No dependency caffe replacement |  
 
 ## AI framework tutorial
 
@@ -195,9 +256,14 @@
 - [ ] [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow): TensorFlow - A curated list of dedicated resources | 
 - [ ] [tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials): From the basics to slightly more interesting applications of Tensorflow | 
 - [ ] [tensorflow-tutorial](https://github.com/caicloud/tensorflow-tutorial): Example TensorFlow codes and Caicloud TensorFlow as a Service dev environment. | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  |
+- [ ] [tf-estimator-tutorials](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials): This repository includes tutorials on how to use the TensorFlow estimator APIs to perform various ML tasks, in a systematic and standardised way | [website](https://www.tensorflow.org/programmers_guide/estimators)
+- [ ] [Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101): TensorFlow Tutorials  | 
+- [ ] [tensorflow-docs](https://github.com/xitu/tensorflow-docs): TensorFlow 最新官方文档中文版 V1.10  | [website](https://tensorflow.juejin.im/)
+- [ ] [TensorFlow-World](https://github.com/astorfi/TensorFlow-World): Simple and ready-to-use tutorials for TensorFlow | 
+- [ ] [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations. | [website](http://www.tensorflowbook.com/)
+- [ ] [TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials): TensorFlow Tutorials with YouTube Videos | 
+- [ ] [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials): This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. | [website](http://cs20.stanford.edu/) 
+- [ ] [EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow): TensorFlow tutorials and best practices. | [website](https://twitter.com/VahidK) 
 
 ## Datasets and reference
 
@@ -207,12 +273,8 @@
 - [ ] [dataset-api](https://github.com/ApolloScapeAuto/dataset-api): ApolloScapeAuto: Api for visualize sample data, evaluation of different tasks | 
 - [ ] [cityscapesScripts](https://github.com/mcordts/cityscapesScripts): README and scripts for the Cityscapes Dataset | 
 - [ ] [bdd-data](https://github.com/ucbdrive/bdd-data): Toolkit to use BDD Dataset | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
+- [ ] [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 | [website](http://shici.store/)
+- [ ] [couplet-dataset](https://github.com/wb14123/couplet-dataset): Dataset for couplets. 70万条对联数据库。 | 
 
 ## Algorithm
 
@@ -221,8 +283,9 @@
 - [ ] [awesome-algorithm](https://github.com/apachecn/awesome-algorithm): LeetCode, HackRank, 剑指offer, classic algorithm implementation | 
 - [ ] [CS-Notes](https://github.com/CyC2018/CS-Notes): 面试必备基础知识  | [website](https://cyc2018.github.io/CS-Notes)
 - [ ] [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer): Interactive Online Platform that Visualizes Algorithms from Code | [website](https://algorithm-visualizer.org/)
-- [ ] []():  | 
-- [ ] []():  | 
+- [ ] [algorithms](https://github.com/keon/algorithms): Minimal examples of data structures and algorithms in Python | 
+- [ ] [leetcode](https://github.com/haoel/leetcode): LeetCode Problems' Solutions | 
+- [ ] [CodingInterviews](https://github.com/gatieme/CodingInterviews): 剑指Offer——名企面试官精讲典型编程题 | 
 
 ## Code language
 
@@ -234,16 +297,8 @@
 - [ ] [learnGitBranching](https://github.com/pcottle/learnGitBranching): An interactive git visualization to challenge and educate!  | [website](https://pcottle.github.com/learnGitBranching/?demo)
 - [ ] [first-contributions](https://github.com/firstcontributions/first-contributions): Help beginners to contribute to open source projects | [wensite](https://firstcontributions.github.io/)
 - [ ] [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese): 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
 
 ## Others
 
 - [ ] [shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format | [website](https://shields.io/)
 - [ ] [ebook](https://github.com/jyfc/ebook): classic books of computer science | [website](http://onestraw.net/)
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
-- [ ] []():  | 
